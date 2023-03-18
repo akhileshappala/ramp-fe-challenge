@@ -1,5 +1,5 @@
 {
-  "name": "ramp-fe-challenge",
+  "name": "ramp-fe-challenge-Akhilesh",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,10 @@
     "@types/react-dom": "^18.0.9",
     "codesandbox": "^2.2.3",
     "prettier": "^2.8.1"
-  }
+  },
+  "description": "Welcome to Ramp's frontend interview challenge.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": []
 }
